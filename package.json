@@ -1,0 +1,28 @@
+{
+  "name": "gulp4-quick-starter",
+  "version": "1.0.0",
+  "description": "gulp4-quick-starter",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsenykonohov/gulp4-quick-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsenykonohov/gulp4-quick-starter/issues"
+  },
+  "homepage": "https://github.com/arsenykonohov/gulp4-quick-starter#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.20",
+    "angular": "^1.7.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0"
+  }
+}
